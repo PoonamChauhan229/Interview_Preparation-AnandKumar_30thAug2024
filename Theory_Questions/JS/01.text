@@ -1,0 +1,40 @@
+Q1.What is Javascript ? What is role of javascript Engine
+> Javascript is scripting/programming language that is used for making interactive web pages 
+> Javascript is used for creating dynamic webpages
+> Javascript engine is present in web browers that executes JS code
+> Javascript Engines:
+    - Google Chrome - V8
+    - Mozilla       - Spider Monkey
+    - Safari        - Javascript core
+    - Edge          - Chakra
+
+Q2.What is Client Side & Server Side?
+>Client is a device/application/software that requests and consumes services or resources from the server
+>Server is a device/application/software that provide services or resources to the client
+
+Q3:What are variables? What is differnce between var, let and const?
+> Variables are used for storing the data, variables can be declared as userdefined name
+> var, let and const are keywords which are used declaring the variables
+--
+> var > functional scope and has a hoisting property
+> let, const > block scope and this doesnt have
+--
+> var can be used to declare the same variable n no of times.
+> let, const used to declare the variable only once
+--
+var , let varibles value can be reassigned but const variable value cant be reassigned(constant)
+--
+var , let keywords can be declared and kept without assigning the value but if we do with the const it would throw an error. 
+
+Q4:Can you name some String Methods?
+>split()
+>toLowerCase()
+>toUpperCase()
+>concat()
+
+Assigmnet : String Methods 
+>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+
+
+
